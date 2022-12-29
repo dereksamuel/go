@@ -30,4 +30,10 @@ func main() {
 	const baseCuadrada = 10
 	areaCuadrada := baseCuadrada * baseCuadrada
 	fmt.Println("Area:", areaCuadrada)
+
+	x := 1.0
+	y := 2.5
+
+	result := x + y
+	fmt.Println(result, x-y)
 }
