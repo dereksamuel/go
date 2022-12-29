@@ -1,0 +1,11 @@
+{
+  "name": "go_dk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go": "go run src/main.go"
+  },
+  "author": "Derek Paul",
+  "license": "MIT"
+}
